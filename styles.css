@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: MintCream;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  h2 {
+    color: SteelBlue;
+    text-align: center;
+  }
+  
+  table {
+    border: 2px solid blue;
+    width: 650px;
+    margin: 0 auto;
+  }
+  
+  thead {
+    background-color: CornflowerBlue;
+  }
+  
+  td {
+    border-top: 1px solid DodgerBlue;
+  }
+  
+  .code {
+    font-family: monospace;
+    background-color: LightBlue;
+  }
